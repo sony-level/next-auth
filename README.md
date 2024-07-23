@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <br/>
   <a href="https://authjs.dev" target="_blank"><img width="96px" src="https://authjs.dev/img/logo-sm.png" /></a>
   <h3 align="center">Auth.js</h3>
